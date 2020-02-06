@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1213012279 source:d:\dev\c++\rpg\arme.cpp
+	"Arme.h"
+
+1300206956 d:\dev\c++\rpg\arme.h
+	<iostream>
+	<string>
+
+1580044165 source:d:\dev\c++\rpg\personnage.cpp
+	"Personnage.h"
+
+1580043994 d:\dev\c++\rpg\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1579998219 source:d:\dev\c++\rpg\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"Personnage.h"
+

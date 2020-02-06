@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1580042845 source:d:\dev\c++\openclassrooms\main.cpp
+	<iostream>
+	<string>
+	"Duree.h"
+
+1579915983 source:d:\dev\c++\openclassrooms\moyenne.cpp
+
+1579915884 d:\dev\c++\openclassrooms\moyenne.h
+
+1579990108 d:\dev\c++\openclassrooms\mystery_word.h
+	<string>
+
+1579987195 source:d:\dev\c++\openclassrooms\chapitre_1.cpp
+
+1579994308 source:d:\dev\c++\openclassrooms\mystery_word.cpp
+
+1579998260 source:d:\dev\c++\openclassrooms\mystery_world_v2.cpp
+
+1579995845 source:d:\dev\c++\openclassrooms\src\personnage.cpp
+	"Personnage.h"
+
+1579995845 d:\dev\c++\openclassrooms\include\personnage.h
+
+1579997804 source:d:\dev\c++\openclassrooms\arme.cpp
+	"Arme.h"
+
+1579997809 d:\dev\c++\openclassrooms\arme.h
+	<iostream>
+	<string>
+
+1580040622 source:d:\dev\c++\openclassrooms\personnage.cpp
+	"Personnage.h"
+
+1579998662 d:\dev\c++\openclassrooms\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1580042798 source:d:\dev\c++\openclassrooms\duree.cpp
+	"Duree.h"
+
+1580043146 d:\dev\c++\openclassrooms\duree.h
+	<iostream>
+	<string>
+

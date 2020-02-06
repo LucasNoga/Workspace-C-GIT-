@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579821426 source:d:\dev\c++\test\calcul_nombre.cpp
+	<iostream>
+	<string>
+
+1579821416 source:d:\dev\c++\test\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
